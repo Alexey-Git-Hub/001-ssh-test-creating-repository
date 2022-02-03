@@ -13,7 +13,7 @@ git commit -m "My fisrt commit:"
 
 git status
 
-git remote add origin git@github.com:Alexey-Git-Hub/repo-001/001-ssh-test-creating-repository.git
+git remote add origin git@github.com:Alexey-Git-Hub/001-ssh-test-creating-repository.git
 
 git remote -v
 	https://linuxize.com/post/how-to-remove-git-remotes/
@@ -61,5 +61,5 @@ solve:
 	https://cli.github.com/manual/gh_repo_create
 	gh repo create my-ssh-test-creating-repository --public --source=. --remote=upstream
 		✓ Created repository samloik/my-ssh-test-creating-repository on GitHub
-		✓ Added remote git@github.com:samloik/my-ssh-test-creating-repository.git
+		✓ Added remote git@github.com:Alexey-Git-Hub/my-ssh-test-creating-repository.git
 ---
